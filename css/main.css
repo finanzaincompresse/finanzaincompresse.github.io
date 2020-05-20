@@ -1501,7 +1501,7 @@ a.menu-toggle {
 	}
 	.mutuo-content .image-part {
 		width: 300px;
-		position: top;
+		position: absolute;
 		bottom: -630px;
 		left: 50%;
 		margin-left: -150px;
