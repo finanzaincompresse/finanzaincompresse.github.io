@@ -1443,7 +1443,7 @@ a.menu-toggle {
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size: contain;
-	-moz-background-size: contain;
+	-moz-background-size: cover;
 	background-size: contain;
 }
 .mutuo-content .item[data-item]::before {
