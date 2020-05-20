@@ -1487,7 +1487,7 @@ a.menu-toggle {
 }
 @media only screen and (max-width:768px) {
 	#mutuo {
-		padding-bottom: 27rem;
+		padding-bottom: 40rem;
 	}
 	.mutuo-content .right-side, .mutuo-content .left-side {
 		position: static;
@@ -1509,7 +1509,7 @@ a.menu-toggle {
 }
 @media only screen and (max-width:400px) {
 	#mutuo    {
-		padding-bottom: 21rem;
+		padding-bottom: 46rem;
 	}
 	.mutuo-content .image-part {
 		width: 230px;
