@@ -1439,6 +1439,7 @@ a.menu-toggle {
 .mutuo-content .image-part {
 	margin: 0 auto;
 	height: 400px;
+        object-fit: cover;
 	background-image: url("../images/appdesign.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
