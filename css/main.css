@@ -1441,7 +1441,7 @@ a.menu-toggle {
 	height: 400px;
 	background-image: url("../images/appdesign.jpg");
 	background-repeat: no-repeat;
-	background-position: top;
+	background-position: center;
 	-webkit-background-size: contain;
 	-moz-background-size: contain;
 	background-size: contain;
