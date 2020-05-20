@@ -1412,7 +1412,7 @@ a.menu-toggle {
 	background: #FFFFFF;
 	padding-top: 12rem;
 	padding-bottom: 15rem;
-	overflow: visible;
+	overflow: auto;
 }
 .mutuo-content {
 	position: relative;
@@ -1441,7 +1441,7 @@ a.menu-toggle {
 	height: 400px;
 	background-image: url("../images/appdesign.jpg");
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: top;
 	-webkit-background-size: contain;
 	-moz-background-size: contain;
 	background-size: contain;
