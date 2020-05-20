@@ -1412,7 +1412,7 @@ a.menu-toggle {
 	background: #FFFFFF;
 	padding-top: 12rem;
 	padding-bottom: 15rem;
-	overflow: hidden;
+	overflow: visible;
 }
 .mutuo-content {
 	position: relative;
